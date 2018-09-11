@@ -1,0 +1,18 @@
+E:\PROGRAMLAR\PROJELERİM\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+E:\PROGRAMLAR\PROJELERİM\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+E:\PROGRAMLAR\PROJELERİM\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\PROGRAMLAR\PROJELERİM\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+E:\PROGRAMLAR\PROJELERİM\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+E:\PROGRAMLAR\PROJELERİM\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\PROGRAMLAR\PROJELERİM\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\PROGRAMLAR\PROJELERİM\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+E:\PROGRAMLAR\PROJELERİM\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+E:\PROGRAMLAR\PROJELERİM\LİSTBOX1 TAN LİSTBOX2A EKLEME ARAMA LİSTBOX3A EKLEME ARAMA\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+E:\PROGRAMLAR\PROJELERİM\LİSTBOX1 TAN LİSTBOX2A EKLEME ARAMA LİSTBOX3A EKLEME ARAMA\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+E:\PROGRAMLAR\PROJELERİM\LİSTBOX1 TAN LİSTBOX2A EKLEME ARAMA LİSTBOX3A EKLEME ARAMA\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+E:\PROGRAMLAR\PROJELERİM\LİSTBOX1 TAN LİSTBOX2A EKLEME ARAMA LİSTBOX3A EKLEME ARAMA\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+E:\PROGRAMLAR\PROJELERİM\LİSTBOX1 TAN LİSTBOX2A EKLEME ARAMA LİSTBOX3A EKLEME ARAMA\WindowsFormsApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\PROGRAMLAR\PROJELERİM\LİSTBOX1 TAN LİSTBOX2A EKLEME ARAMA LİSTBOX3A EKLEME ARAMA\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+E:\PROGRAMLAR\PROJELERİM\LİSTBOX1 TAN LİSTBOX2A EKLEME ARAMA LİSTBOX3A EKLEME ARAMA\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+E:\PROGRAMLAR\PROJELERİM\LİSTBOX1 TAN LİSTBOX2A EKLEME ARAMA LİSTBOX3A EKLEME ARAMA\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\PROGRAMLAR\PROJELERİM\LİSTBOX1 TAN LİSTBOX2A EKLEME ARAMA LİSTBOX3A EKLEME ARAMA\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.write.1.tlog
